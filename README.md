@@ -2,9 +2,9 @@ Robin CHEN(陈若冰)
 
 Timeline
 
-- 2012-2019: Bachlor & Master at Department of Automation, SEIEE, Shanghai Jiao Tong University
+- 2012-2019: Bachelor & Master at Department of Automation, SEIEE, Shanghai Jiao Tong University
 - 2018: Intern at Intel Co. and YITU tech.
-- 2019- : Researcher at Sensetime Group, Shanghai.
+- 2019- : Researcher at SenseTime Group, Shanghai.
 
 Knowledge & Area
 
