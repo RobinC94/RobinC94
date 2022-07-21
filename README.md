@@ -1,16 +1,19 @@
-### Hi there 👋
+Robin CHEN(陈若冰)
 
-<!--
-**RobinC94/RobinC94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Timeline
 
-Here are some ideas to get you started:
+- 2012-2019: Bachlor & Master at Department of Automation, SEIEE, Shanghai Jiao Tong University
+- 2018: Intern at Intel Co. and YITU tech.
+- 2019- : Researcher at Sensetime Group, Shanghai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Knowledge & Area
+
+- Autonomous Driving Decision/Planning/Control with Reinforcement Learning & Imitation Learning
+- Traffic Signal Control with RL
+- Decision Intelligence applications i.e. biologics, games, finance etc.
+- Image&Video Super-Resolution with Deep Learning.Image Demosaicking and Denoising
+- Dabbling in other problems of ML, CV, NLP, etc.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinC94&layout=compact)
+
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinC94&count_private=true&show_icons=true&theme=dracula)
