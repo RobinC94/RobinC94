@@ -14,6 +14,6 @@ Knowledge & Area
 - Image&Video Super-Resolution with Deep Learning.Image Demosaicking and Denoising
 - Dabbling in other problems of ML, CV, NLP, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinC94&layout=compact)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=RobinC94&layout=compact)
 
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinC94&count_private=true&show_icons=true&theme=dracula)
+![Robin's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=RobinC94&count_private=true&show_icons=true&theme=dracula)
