@@ -4,10 +4,12 @@ Timeline
 
 - 2012-2019: Bachelor & Master at Department of Automation, SEIEE, Shanghai Jiao Tong University
 - 2018: Intern at Intel Co. and YITU tech.
-- 2019- : Researcher at SenseTime Group, Shanghai.
+- 2019-2023 : Researcher at SenseTime Group, Shanghai.
+- 2023- : Data Scientist at Ubiquant, Shanghai.
 
 Knowledge & Area
 
+- Factor digging and feature extraction based on volume and price data of stocks
 - Autonomous Driving Decision/Planning/Control with Reinforcement Learning & Imitation Learning
 - Traffic Signal Control with RL
 - Decision Intelligence applications i.e. biologics, games, finance etc.
